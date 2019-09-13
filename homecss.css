@@ -1,0 +1,15 @@
+body {
+    /* background-color: cornflowerblue; */
+    background-image: url("../First Website Project/IMG/pewd.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h4 {
+    color: azure;
+}
+/**
+This is how you specifically style sections of an HTML web page
+ */
+#textEnhance {
+    color: lightpink;
+}

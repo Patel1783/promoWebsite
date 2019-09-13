@@ -1,0 +1,24 @@
+#firstTable {
+    border-style: dot-dot-dash;
+    border-color: lightpink;
+}
+/**
+Classes use a dot, while id uses a hashtag
+ */
+.topNAV {
+    background-color: darkseagreen;
+    overflow: hidden;
+}
+.topNAV a {
+    float: middle;
+    color: midnightblue;
+    text-align: center;
+    line-height: 30px;
+    padding: 18px 16px;
+    font-size: 17px;
+    text-decoration: underline;
+}
+.topNAV a:hover {
+    background-color: lightpink;
+    color: blue;
+}
