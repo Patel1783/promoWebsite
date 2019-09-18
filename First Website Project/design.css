@@ -1,0 +1,43 @@
+body {
+    background-image: url("IMG/bear.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navBar {
+    background-color: lightskyblue;
+    overflow: hidden;
+}
+.navBar a {
+    float: center;
+    color: midnightblue;
+    text-align: center;
+    line-height: 30px;
+    padding: 28px 23px;
+    font-size: 17px;
+    text-decoration: underline;
+}
+.navBar a:hover {
+    background-color: cornflowerblue;
+    color: blue;
+}
+.Heading {
+    color: #fff4f4;
+    font-family: Garamond;
+
+}
+.actualInfo {
+    padding: 3px;
+    color: #0f4e88;
+    background-color: #87cdfa;
+}
+
+#Lists {
+    background: #0f4e88;
+    color: #fff4f4;
+}
+#firstTable {
+    border-style: dot-dot-dash;
+    border-color: lightpink;
+    color: #fff4f4;
+    background-color: midnightblue;
+}
